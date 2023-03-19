@@ -5,7 +5,9 @@ NodeJS and MongoDB basic rest api.
 
 ## Install
 ```bash 
-  npm i nodejs-restapi
+  git clone https://github.com/atakansn/nodejs-rest.git
+  
+  cd nodejs-rest
 ```
 
 ## Running in a Developer Environment
